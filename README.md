@@ -13,7 +13,7 @@ A simple, secure local password manager built in Java to safely store and retrie
 * `list` - Display all stored service names.
 
 ## How to Build and Run
-1. Ensure you have the Java Development Kit (JDK) installed.
+1. Ensure Java Development Kit is installed.
 2. Compile the source files:
    ```bash
    javac Main.java
