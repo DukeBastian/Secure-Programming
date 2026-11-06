@@ -1,0 +1,6 @@
+target/
+vault.dat
+vault.dat.tmp
+*.class
+.idea/
+.vscode/
